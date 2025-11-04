@@ -16,4 +16,3 @@ Power BI for building interactive dashboards
 What I learned:
 This project helped me understand how to turn raw data into meaningful insights that can support better decision-making — a core skill in BI. It also boosted my confidence in using SQL and Power BI together for storytelling through data.
 I’m proud of this first step and excited to keep learning, building, and growing in the world of Business Intelligence!
-#CareerGrowth #
